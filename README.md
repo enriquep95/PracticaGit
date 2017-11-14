@@ -3,7 +3,7 @@
 # *PATRAñAS*
 Que chingue a su madre el America
 
-´´´java
+```java
 System.out.println("hey");
-´´´
+```
 :+1:
