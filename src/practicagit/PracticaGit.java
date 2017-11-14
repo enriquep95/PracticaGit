@@ -22,7 +22,7 @@ public class PracticaGit {
            
         double area;
         double r;
-        
+        System.out.println("Estoy en modo pro!!!!");
         System.out.println("Hola mundo");
         
         Scanner sc=new Scanner(System.in);
